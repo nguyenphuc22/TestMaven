@@ -1,7 +1,7 @@
 package nguyenphuc.vr.testmaven
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import nguyenphuc.vr.helloworld.HelloWorld
 
 class MainActivity : AppCompatActivity() {
